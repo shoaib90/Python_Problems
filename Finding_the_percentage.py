@@ -18,7 +18,7 @@
 # Anurag 26 28 30
 # Harsh
 
-#Answers :-
+#Answer :-
 
 if __name__ == '__main__':
     n = int(input())
